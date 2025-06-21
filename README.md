@@ -1,3 +1,7 @@
+
+
+![ChatGPT Image Jun 21, 2025, 12_50_56 AM](https://github.com/user-attachments/assets/7967a087-71af-4af5-8a15-59304bebd317)
+
 ## Hi there 👋
 
 ### 👨‍💻 About Me  
