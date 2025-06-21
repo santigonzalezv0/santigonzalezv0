@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**santigonzalezv0/santigonzalezv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me  
+I am a **Computer Engineering** student passionate about software development, technology, and problem-solving. With experience in web development, technical support, I am always looking for new challenges to grow professionally.  
 
-Here are some ideas to get you started:
+### 🎓 Education  
+- **Universidad Americana, Paraguay**  
+  Bachelor's in Computer Engineering.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies  
+- **Front-End**:  
+  - JavaScript, HTML5, CSS3.  
+- **Back-End**:  
+  - Python, SQL, PHP.  
+- **Tools & Software**:  
+  - Tableau, Excel, SquareSpace.
+
+### 🌟 Professional Skills  
+- Leadership.  
+- Problem-solving.  
+- Adaptability and flexibility.  
+- Strong work ethic and results-driven mindset.  
+
+### 🌐 Languages  
+- Spanish (Native).  
+- English (Advanced).  
+- Guaraní (Intermediate).  
+
+---
+
+### 🔗 Connect with Me  
+- **LinkedIn**: [Santiago González Vergara](https://www.linkedin.com/in/santiago-gonz%C3%A1lez-vergara-101a84346/)  
+
+---
+
+Thanks for visiting my profile! I’m always open to collaborating on projects and learning new technologies.  
+📧 Contact: santiagogonzalezv06@gmail.com  
+📍 Asunción, Paraguay
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=santigonzalezv0&theme=dark&hide_border=true)](https://git.io/streak-stats)
