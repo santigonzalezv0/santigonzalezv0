@@ -5,7 +5,7 @@
 ## Hi there 👋
 
 ### 👨‍💻 About Me  
-I am a **Computer Engineering** student passionate about software development, technology, and problem-solving. With experience in web development, technical support, I am always looking for new challenges to grow professionally.  
+I am a **Computer Engineering** student passionate about Artificial Intelligence, technology, and problem-solving. With experience in web development, DB, and applied AI, I am always looking for new challenges to grow professionally.
 
 ### 🎓 Education  
 - **Universidad Americana, Paraguay**  
@@ -15,9 +15,13 @@ I am a **Computer Engineering** student passionate about software development, t
 - **Front-End**:  
   - JavaScript, HTML5, CSS3.  
 - **Back-End**:  
-  - Python, SQL, PHP.  
+  - Python, SQL, PHP.
+- **Artificial Intelligence & Data:**
+  - Machine Learning (scikit-learn, TensorFlow basics)
+  - Data Analysis & Visualization (PowerBI, Excel)
+  - Prompt Engineering
 - **Tools & Software**:  
-  - Tableau, Excel, SquareSpace.
+  - Tableu, Excel, SquareSpace.
 
 ### 🌟 Professional Skills  
 - Leadership.  
@@ -41,6 +45,4 @@ Thanks for visiting my profile! I’m always open to collaborating on projects a
 📧 Contact: santiagogonzalezv06@gmail.com  
 📍 Asunción, Paraguay
 
----
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=santigonzalezv0&theme=dark&hide_border=true)](https://git.io/streak-stats)
