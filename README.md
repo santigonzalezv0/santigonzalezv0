@@ -21,7 +21,7 @@ I am a **Computer Engineering** student passionate about Artificial Intelligence
   - Data Analysis & Visualization (PowerBI, Excel)
   - Prompt Engineering
 - **Tools & Software**:  
-  - Tableu, Excel, SquareSpace.
+  - PowerBI, Excel, SquareSpace.
 
 ### 🌟 Professional Skills  
 - Leadership.  
