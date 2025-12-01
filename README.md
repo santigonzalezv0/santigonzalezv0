@@ -1,8 +1,9 @@
 
 
-![ChatGPT Image Jun 21, 2025, 12_50_56 AM](https://github.com/user-attachments/assets/7967a087-71af-4af5-8a15-59304bebd317)
+![ChatGPT Image Jun 21, 2025, 12_50_56 AM](https://github.com/user-attachments/assets/8d5bfbf8-f281-4b27-9d0f-4371e5658597)
 
-## Hi there 👋
+
+
 
 ### 👨‍💻 About Me  
 I am a **Computer Engineering** student passionate about Artificial Intelligence, technology, and problem-solving. With experience in web development, DB, and applied AI, I am always looking for new challenges to grow professionally.
